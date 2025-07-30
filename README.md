@@ -12,8 +12,8 @@ https://www.lbgi.fr/balibase/BalibaseDownload/BAliBASE_R9_bali_score.tar.gz
 https://www.lbgi.fr/balibase/BalibaseDownload/BAliBASE_R10.tar.gz   
 https://www.lbgi.fr/balibase/BalibaseDownload/BAliBASE_R10_bali_score.tar.gz.       
 Decompress the files.
-3. Download all BAli_eva scripts. Organize all prepared files in the created directory according to structure below:
-<img width="193" height="309" alt="image" src="https://github.com/user-attachments/assets/f3571ef2-c461-45c6-a69c-0d450ac3abd1" />
+3. Download all BAli_eva scripts. Organize all prepared files in the created directory according to structure below:   
+  ![structure](images/structure.png)
 
 4. Install sqret, which is required to convert files from fasta to msf format in the scripts.
 5. Users should make sure bali_score c programs in R9 and R10 works successfully on their environment. To run bali_score program for Reference 10, users may need to assign the path of relevant libexpat.so.x to variable LD_LIBRARY_PATH.
