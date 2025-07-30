@@ -27,7 +27,7 @@ Decompress the files.
    ./R10.sh "$command"
 ```
    The results of the tested algorithm program and bali_score are stored in R1_5results, R9results and R10results in current directory.  
-4. Calculate the average score and consuming time of every dataset. The calculated results are presented in scores.txt in current directory. Templetes are provided:
+3. Calculate the average score and consuming time of every dataset. The calculated results are presented in scores.txt in current directory. Templetes are provided:
 ```bash
    ./average_cal.sh 1_5
    ./average_cal.sh 9
